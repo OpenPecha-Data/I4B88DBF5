@@ -1,0 +1,16 @@
+id: I4B88DBF5
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:23:43.866315
+last_modified: 2023-02-10 00:23:43.866419
+source_metadata:
+  title: 'Asaṅga/Maitreya: Ratnagotravibhāga'
+  language: en
+bases:
+  0E30:
+    base_file: 0E30.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
